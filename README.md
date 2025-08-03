@@ -125,7 +125,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/admybrand-dashboard.git
+   git clone https://github.com/aayush598/admybrand-dashboard.git
    cd admybrand-dashboard
    ```
 
