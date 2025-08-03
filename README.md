@@ -309,8 +309,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@admybrand.com or create an issue in the GitHub repository.
+For support, email aayushgid598@gmail.com or create an issue in the GitHub repository.
 
 ---
 
-**Built with ❤️ by the ADmyBRAND team**
+**Built with ❤️ by Aayush Gid**
